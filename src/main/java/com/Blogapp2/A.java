@@ -1,7 +1,7 @@
 package com.Blogapp2;
 
 public class A {
-    public void Zaka(){
-
+    public boolean Zaka(){
+    return true;
     }
 }
